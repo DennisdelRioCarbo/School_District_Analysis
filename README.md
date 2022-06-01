@@ -21,40 +21,40 @@ After the initial analysis was complete, the school board notified that the `stu
  
  *% Passing Reading: from 86% to 85.7%
 
-*% Overall Passing: 65% to 64.9%
+ *% Overall Passing: 65% to 64.9%
  
  *The only metric that stayed the same was *Average Reading Score* score with 81.9
 
 
--How is the school summary affected.
+- How is the school summary affected.
 When we look at the school summary we can see that only the metrics for Thomas High School changed as the data for each of the other schools was not altered.
 
--How does replacing the ninth grader's math and reading scores affect Thomas High School's performance relative to the other schoools?
+- How does replacing the ninth grader's math and reading scores affect Thomas High School's performance relative to the other schoools?
  Even though some of the scores for Thoas High School decreased, it did not change its position relative to the other schools, maintaining its position as the second top school.
 
--How does replacing the ninth-grade scores affect the following:
+- How does replacing the ninth-grade scores affect the following:
   -Math and reading scores by grade. It only affects the scores for Thomas High School which now display *nan* for the 9th grade, the remainder of the scores are the      same.
   
-  -Scores by school spending.There are no changes on the scores based on school spending.
+  - Scores by school spending.There are no changes on the scores based on school spending.
   
-  -Scores by school size. There are no changes on the scores based on school size.
+  - Scores by school size. There are no changes on the scores based on school size.
   
-  -Scores by school type. There are no changes on the scores based school type.
+  - Scores by school type. There are no changes on the scores based school type.
   
 
 **##Summary**
 Summarize four changes in the uploaded school district analysis after math scores for the ninth grade at THS have been replaced with NaNs.
 
-1.-Math scores by grade
+1. Math scores by grade
 
-2.-Reading scores by grade
+2. Reading scores by grade
 
-3.-District summary as mentioned before
+3. District summary as mentioned before
 
-4.-Scores for Thomas High School changed as following:
+4. Scores for Thomas High School changed as following:
 
-   -Average Math Score: from 83.4 to 83.3
-   -Average Reading Score: from 84.84 to 83.89
-   -% Passing Math: from 93.27% to 93.18%
-   -% Passing Reading: from 97.30% to 97.01%
-   -% Overall Passing: from 90.94 to 90.63%
+   - Average Math Score: from 83.4 to 83.3
+   - Average Reading Score: from 84.84 to 83.89
+   - % Passing Math: from 93.27% to 93.18%
+   - % Passing Reading: from 97.30% to 97.01%
+   - % Overall Passing: from 90.94 to 90.63%
