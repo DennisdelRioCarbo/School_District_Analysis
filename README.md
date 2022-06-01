@@ -12,12 +12,17 @@ After the initial analysis was complete, the school board notified that the `stu
 ![image](https://user-images.githubusercontent.com/104289098/171316685-188c262c-f9fc-4e7a-9401-0569490b87c7.png)
 
 
-![District Summary after changes](https://user-images.githubusercontent.com/104289098/171315857-6da987aa-a0f0-42df-b467-55d1c3b9d7a2.png)
+![image](https://user-images.githubusercontent.com/104289098/171316929-fc2f12fd-caa1-47cd-a8f5-bfe5173b2ee1.png)
+
 
  *Average Math Score: from 79 to 78.9
+ 
  *% Passing Math: from 75% to 74.8%
+ 
  *% Passing Reading: from 86% to 85.7%
- *% Overall Passing: 65% to 64.9%
+
+*% Overall Passing: 65% to 64.9%
+ 
  *The only metric that stayed the same was *Average Reading Score* score with 81.9
 
 
@@ -41,8 +46,11 @@ When we look at the school summary we can see that only the metrics for Thomas H
 Summarize four changes in the uploaded school district analysis after math scores for the ninth grade at THS have been replaced with NaNs.
 
 1.-Math scores by grade
+
 2.-Reading scores by grade
+
 3.-District summary as mentioned before
+
 4.-Scores for Thomas High School changed as following:
   -Average Math Score: from 83.4 to 83.3
   -Average Reading Score: from 84.84 to 83.89
