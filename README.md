@@ -7,14 +7,14 @@ After the initial analysis was complete, the school board notified that the `stu
 
 **##Results**
 -How is the district summary affected. After changing the Thomas High School's math and reading scores we can see a slight decrease in the following metrics:
-![Screenshot (2)](https://user-images.githubusercontent.com/104289098/171315778-1d57b218-6b79-4b9a-bb70-d6f99f60ad83.png)
-![Screenshot (2)](https://user-images.githubusercontent.com/104289098/171315857-6da987aa-a0f0-42df-b467-55d1c3b9d7a2.png)
 
-Average Math Score: from 79 to 78.9
-% Passing Math: from 75% to 74.8%
-% Passing Reading: from 86% to 85.7%
-% Overall Passing: 65% to 64.9%
-The only metric that stayed the same was *Average Reading Score* score with 81.9
+![District Summary after changes](https://user-images.githubusercontent.com/104289098/171315857-6da987aa-a0f0-42df-b467-55d1c3b9d7a2.png)
+
+ *Average Math Score: from 79 to 78.9
+ *% Passing Math: from 75% to 74.8%
+ *% Passing Reading: from 86% to 85.7%
+ *% Overall Passing: 65% to 64.9%
+ *The only metric that stayed the same was *Average Reading Score* score with 81.9
 
 
 -How is the school summary affected.
