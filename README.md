@@ -2,12 +2,12 @@
 
 **Overview** 
 
-Maria, the chief data scientist for a school district is tasked with preparing all stardandized tests' data for analysis, reaporting and presentation to provide insights about performance trends and patterns. These insights are used to inform discussions and strategic decisions at the school and district level. We have been helping Maria analyze data  on student funding and standardized math and reading test scores to show trends in school performance while adhering to FERPA. This analysis will help the school board make decisions regarding budgets and priorities.
+Maria, the chief data scientist for a school district is tasked with preparing all stardandized tests' data for analysis, reporting and presentation to provide insights about performance trends and patterns. These insights are used to inform discussions and strategic decisions at the school and district level. We have been helping Maria analyze data  on student funding and standardized math and reading test scores to show trends in school performance while adhering to FERPA. This analysis will help the school board make decisions regarding budgets and priorities.
 
-After the initial analysis was complete, the school board notified that the `students_complete.csv` file showed evidence of academic dishonesty, specifically, reading and math grades for Thomas High School ninth grades appeared to have been altered. They want to replace the the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact, then repeat the analysis to describe how these changes affected the overall analysis.
+After the initial analysis was complete, the school board notified that the `students_complete.csv` file showed evidence of academic dishonesty, specifically, reading and math grades for Thomas High School ninth grades appeared to have been altered. They want to replace  the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact, then repeat the analysis to describe how these changes affected the overall analysis.
 
 **##Results**
--How is the district summary affected. After changing the Thomas High School's math and reading scores we can see a slight decrease in the following metrics:
+- How is the district summary affected. After changing the Thomas High School's math and reading scores we can see a slight decrease in the following metrics:
 
 ![image](https://user-images.githubusercontent.com/104289098/171316685-188c262c-f9fc-4e7a-9401-0569490b87c7.png) (Before changes)
 
@@ -30,7 +30,7 @@ After the initial analysis was complete, the school board notified that the `stu
 When we look at the school summary we can see that only the metrics for Thomas High School changed as the data for each of the other schools was not altered.
 
 - How does replacing the ninth grader's math and reading scores affect Thomas High School's performance relative to the other schoools?
- Even though some of the scores for Thoas High School decreased, it did not change its position relative to the other schools, maintaining its position as the second top school.
+ Even though some of the scores for Thomas High School decreased, it did not change its position relative to the other schools, maintaining its position as the second top school.
 
 - How does replacing the ninth-grade scores affect the following:
   -Math and reading scores by grade. It only affects the scores for Thomas High School which now display *nan* for the 9th grade, the remainder of the scores are the      same.
@@ -45,9 +45,9 @@ When we look at the school summary we can see that only the metrics for Thomas H
 **##Summary**
 Summarize four changes in the uploaded school district analysis after math scores for the ninth grade at THS have been replaced with NaNs.
 
-1. Math scores by grade
+1. Math scores by grade. Math scores stayed the same for 10th, 11th and 12th grades at THS.
 
-2. Reading scores by grade
+2. Reading scores by grade. Reading scores stayed the same for 10th, 11th and 12th grades at ths.
 
 3. District summary as mentioned before
 
@@ -58,3 +58,10 @@ Summarize four changes in the uploaded school district analysis after math score
    - % Passing Math: from 93.27% to 93.18%
    - % Passing Reading: from 97.30% to 97.01%
    - % Overall Passing: from 90.94 to 90.63%
+
+It is worth noting that without adjusting the scores for THS after the math and reading scores were replaced with *NaNs* % Passing Math, % Passing Reading and % Overall Passing would have dropped significantly and THS would not have been in the top five schools.
+
+![image](https://user-images.githubusercontent.com/104289098/171546063-6d3fedbf-46e1-4c5a-a241-1d0e996425c8.png) (After 9th grades changes to NaNs)
+
+![image](https://user-images.githubusercontent.com/104289098/171546176-37a964bc-9138-4181-b071-775a6dcd976e.png) (After recalculating percentages)
+
