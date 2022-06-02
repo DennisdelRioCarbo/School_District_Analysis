@@ -9,10 +9,11 @@ After the initial analysis was complete, the school board notified that the `stu
 **##Results**
 - How is the district summary affected. After changing the Thomas High School's math and reading scores we can see a slight decrease in the following metrics:
 
-![image](https://user-images.githubusercontent.com/104289098/171316685-188c262c-f9fc-4e7a-9401-0569490b87c7.png) (Before changes)
+(Before changes)
+![image](https://user-images.githubusercontent.com/104289098/171316685-188c262c-f9fc-4e7a-9401-0569490b87c7.png) (Fig. 1)
 
-
-![image](https://user-images.githubusercontent.com/104289098/171316929-fc2f12fd-caa1-47cd-a8f5-bfe5173b2ee1.png)  (After changes)
+(After changes)
+![image](https://user-images.githubusercontent.com/104289098/171316929-fc2f12fd-caa1-47cd-a8f5-bfe5173b2ee1.png) (Fig. 2)
 
 
  *Average Math Score: from 79 to 78.9
@@ -32,8 +33,9 @@ When we look at the school summary we can see that only the metrics for Thomas H
 - How does replacing the ninth grader's math and reading scores affect Thomas High School's performance relative to the other schoools?
  Even though some of the scores for Thomas High School decreased, it did not change its position relative to the other schools, maintaining its position as the second top school.
 
-- How does replacing the ninth-grade scores affect the following:
-  -Math and reading scores by grade. It only affects the scores for Thomas High School which now display *nan* for the 9th grade, the remainder of the scores are the      same.
+- How does replacing the ninth-grade scores affect the following: 
+- 
+  - Math and reading scores by grade. It only affects the scores for Thomas High School which now display *nan* for the 9th grade, the remainder of the scores are the      same.
   
   - Scores by school spending.There are no changes on the scores based on school spending.
   
@@ -43,15 +45,15 @@ When we look at the school summary we can see that only the metrics for Thomas H
   
 
 **##Summary**
-Summarize four changes in the uploaded school district analysis after math scores for the ninth grade at THS have been replaced with NaNs.
+The following summarizes some of the  changes in the uploaded school district analysis after math and reading scores for the ninth grade at THS have been replaced with NaNs.
 
 1. Math scores by grade. Math scores stayed the same for 10th, 11th and 12th grades at THS.
 
-2. Reading scores by grade. Reading scores stayed the same for 10th, 11th and 12th grades at ths.
+2. Reading scores by grade. Reading scores stayed the same for 10th, 11th and 12th grades at THS.
 
-3. District summary as mentioned before
+3. District summary as mentioned previously.
 
-4. Scores for Thomas High School changed as following:
+4. Scores for Thomas High School changed as following (see Fig.4):
 
    - Average Math Score: from 83.4 to 83.3
    - Average Reading Score: from 84.84 to 83.89
@@ -59,9 +61,12 @@ Summarize four changes in the uploaded school district analysis after math score
    - % Passing Reading: from 97.30% to 97.01%
    - % Overall Passing: from 90.94 to 90.63%
 
-It is worth noting that without adjusting the scores for THS after the math and reading scores were replaced with *NaNs* % Passing Math, % Passing Reading and % Overall Passing would have dropped significantly and THS would not have been in the top five schools.
+It is worth noting that without adjusting the scores for THS after the math and reading scores were replaced with *NaNs*, % Passing Math, % Passing Reading and % Overall Passing would have dropped significantly and THS would not have been in the top five schools.
 
-![image](https://user-images.githubusercontent.com/104289098/171546063-6d3fedbf-46e1-4c5a-a241-1d0e996425c8.png) (After 9th grades changes to NaNs)
+(After 9th grades changes to NaNs)
+![image](https://user-images.githubusercontent.com/104289098/171546063-6d3fedbf-46e1-4c5a-a241-1d0e996425c8.png)  (Fig.3)
 
-![image](https://user-images.githubusercontent.com/104289098/171546176-37a964bc-9138-4181-b071-775a6dcd976e.png) (After recalculating percentages)
+
+(After recalculating percentages %)
+![image](https://user-images.githubusercontent.com/104289098/171546176-37a964bc-9138-4181-b071-775a6dcd976e.png) (Fig.4)
 
