@@ -10,9 +10,11 @@ After the initial analysis was complete, the school board notified that the `stu
 - How is the district summary affected. After changing the Thomas High School's math and reading scores we can see a slight decrease in the following metrics:
 
 (Before changes)
+
 ![image](https://user-images.githubusercontent.com/104289098/171316685-188c262c-f9fc-4e7a-9401-0569490b87c7.png) (Fig. 1)
 
 (After changes)
+
 ![image](https://user-images.githubusercontent.com/104289098/171316929-fc2f12fd-caa1-47cd-a8f5-bfe5173b2ee1.png) (Fig. 2)
 
 
@@ -53,7 +55,7 @@ The following summarizes some of the  changes in the uploaded school district an
 
 3. District summary as mentioned previously.
 
-4. Scores for Thomas High School changed as following (see Fig.4):
+4. Scores for Thomas High School changed as following:
 
    - Average Math Score: from 83.4 to 83.3
    - Average Reading Score: from 84.84 to 83.89
@@ -63,10 +65,5 @@ The following summarizes some of the  changes in the uploaded school district an
 
 It is worth noting that without adjusting the scores for THS after the math and reading scores were replaced with *NaNs*, % Passing Math, % Passing Reading and % Overall Passing would have dropped significantly and THS would not have been in the top five schools.
 
-(After 9th grades changes to NaNs)
-![image](https://user-images.githubusercontent.com/104289098/171546063-6d3fedbf-46e1-4c5a-a241-1d0e996425c8.png)  (Fig.3)
 
-
-(After recalculating percentages %)
-![image](https://user-images.githubusercontent.com/104289098/171546176-37a964bc-9138-4181-b071-775a6dcd976e.png) (Fig.4)
 
