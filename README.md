@@ -9,13 +9,14 @@ After the initial analysis was complete, the school board notified that the `stu
 **##Results**
 - How is the district summary affected. After changing the Thomas High School's math and reading scores we can see a slight decrease in the following metrics:
 
-(Before changes)
 
-![image](https://user-images.githubusercontent.com/104289098/171316685-188c262c-f9fc-4e7a-9401-0569490b87c7.png) (Fig. 1)
+*Before changes
 
-(After changes)
+![image](https://user-images.githubusercontent.com/104289098/171316685-188c262c-f9fc-4e7a-9401-0569490b87c7.png) 
 
-![image](https://user-images.githubusercontent.com/104289098/171316929-fc2f12fd-caa1-47cd-a8f5-bfe5173b2ee1.png) (Fig. 2)
+**After changes
+
+![image](https://user-images.githubusercontent.com/104289098/171316929-fc2f12fd-caa1-47cd-a8f5-bfe5173b2ee1.png) 
 
 
  *Average Math Score: from 79 to 78.9
@@ -63,19 +64,22 @@ The following summarizes some of the  changes in the uploaded school district an
    - % Passing Reading: from 97.30% to 97.01%
    - % Overall Passing: from 90.94 to 90.63%
 
+
 ![image](https://user-images.githubusercontent.com/104289098/171767820-00307f5c-6f18-41ea-9543-ae2243ca5ce5.png)
 
-(Before replacement and adjustment)
+*Before replacement and adjustment
 ![image](https://user-images.githubusercontent.com/104289098/171767939-d0ea233b-ab34-46a2-ae7e-74197900cea4.png) 
 
-(After replacement and adjustment)
+*After replacement and adjustment
 ![image](https://user-images.githubusercontent.com/104289098/171767882-eab710e5-d66c-4b63-85c7-1a68f1bc9fff.png) 
+
 
 
 It is worth noting that without adjusting the scores for THS after the math and reading scores were replaced with *NaNs*, % Passing Math, % Passing Reading and % Overall Passing would have dropped significantly and THS would not have been in the top five schools.
 
 
-(After replacement with NaNs before adjustment)
+
+**After replacement with NaNs before adjustment
 
 ![image](https://user-images.githubusercontent.com/104289098/171768188-907f7546-4787-4370-a1cd-baa4955a1c01.png)
 
