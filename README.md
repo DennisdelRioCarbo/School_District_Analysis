@@ -12,9 +12,11 @@ After the initial analysis was complete, the school board notified that the `stu
 
 
 **Before changes**
+
 ![image](https://user-images.githubusercontent.com/104289098/171316685-188c262c-f9fc-4e7a-9401-0569490b87c7.png) 
 
 **After changes**
+
 ![image](https://user-images.githubusercontent.com/104289098/171316929-fc2f12fd-caa1-47cd-a8f5-bfe5173b2ee1.png) 
 
 
