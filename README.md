@@ -65,14 +65,18 @@ The following summarizes some of the  changes in the uploaded school district an
 
 ![image](https://user-images.githubusercontent.com/104289098/171767820-00307f5c-6f18-41ea-9543-ae2243ca5ce5.png)
 
-![image](https://user-images.githubusercontent.com/104289098/171767939-d0ea233b-ab34-46a2-ae7e-74197900cea4.png) (Before replacement and adjustment)
+(Before replacement and adjustment)
+![image](https://user-images.githubusercontent.com/104289098/171767939-d0ea233b-ab34-46a2-ae7e-74197900cea4.png) 
 
-![image](https://user-images.githubusercontent.com/104289098/171767882-eab710e5-d66c-4b63-85c7-1a68f1bc9fff.png) (After replacement and adjustment)
+(After replacement and adjustment)
+![image](https://user-images.githubusercontent.com/104289098/171767882-eab710e5-d66c-4b63-85c7-1a68f1bc9fff.png) 
 
 
 It is worth noting that without adjusting the scores for THS after the math and reading scores were replaced with *NaNs*, % Passing Math, % Passing Reading and % Overall Passing would have dropped significantly and THS would not have been in the top five schools.
 
+
 (After replacement with NaNs before adjustment)
+
 ![image](https://user-images.githubusercontent.com/104289098/171768188-907f7546-4787-4370-a1cd-baa4955a1c01.png)
 
 ![image](https://user-images.githubusercontent.com/104289098/171768220-d9f63add-dce9-4e70-a627-cd85d3d5e1a8.png)
