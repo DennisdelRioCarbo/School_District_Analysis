@@ -63,6 +63,13 @@ The following summarizes some of the  changes in the uploaded school district an
    - % Passing Reading: from 97.30% to 97.01%
    - % Overall Passing: from 90.94 to 90.63%
 
+![image](https://user-images.githubusercontent.com/104289098/171767820-00307f5c-6f18-41ea-9543-ae2243ca5ce5.png)
+
+![image](https://user-images.githubusercontent.com/104289098/171767882-eab710e5-d66c-4b63-85c7-1a68f1bc9fff.png)
+
+![image](https://user-images.githubusercontent.com/104289098/171767939-d0ea233b-ab34-46a2-ae7e-74197900cea4.png)
+
+
 It is worth noting that without adjusting the scores for THS after the math and reading scores were replaced with *NaNs*, % Passing Math, % Passing Reading and % Overall Passing would have dropped significantly and THS would not have been in the top five schools.
 
 
